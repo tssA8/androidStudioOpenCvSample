@@ -108,3 +108,6 @@ Here is how I made this project. If you simply want to run openCV with NDK suppo
   * [activity_main.xml](app/src/main/res/layout/activity_main.xml)
   * [native-lib.cpp](app/src/main/cpp/native-lib.cpp)
 
+
+ps: CMAKELISTS.txt can see(https://www.slideshare.net/WeiXiangWang1/android-studio-ndkjni-opencv)
+
